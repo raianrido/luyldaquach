@@ -1,0 +1,63 @@
+name: Update Scholar Publications
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Chạy tự động vào 00:00 mỗi ngày
+  workflow_dispatch: # Cho phép nhấn nút chạy thủ công
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install scholarly
+
+      - name: Update README with Scholar Data
+        shell: python
+        run: |
+          import scholarly
+          import re
+
+          # Cấu hình ID Scholar của bạn
+          SCHOLAR_ID = "F5gYMlkAAAAJ"
+          search_query = scholarly.scholarly.search_author_id(SCHOLAR_ID)
+          author = scholarly.scholarly.fill(search_query, sections=['publications'])
+          
+          # Lấy 5 bài báo mới nhất/nổi bật nhất
+          pubs = author['publications'][:5] 
+          pub_list = ""
+          for p in pubs:
+              title = p['bib']['title']
+              year = p['bib'].get('pub_year', 'N/A')
+              venue = p['bib'].get('citation', 'Conference/Journal')
+              pub_list += f"- **{title}** ({year}) - *{venue}*\n"
+
+          # Đọc và ghi đè vào file README
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          new_content = re.sub(
+              r".*",
+              f"\n{pub_list}",
+              content,
+              flags=re.DOTALL
+          )
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new_content)
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update publications from Google Scholar" || exit 0
+          git push
