@@ -54,8 +54,64 @@ I am proud to be a part of **Lab FS_370**, a collaborative research environment 
 | **Member** | Anh Nguyen Quynh | [@your_username](#) | |
 | **Member** | Han Truong Gia | [@member3_username](#) |Student at FPT University, Cantho campus|
 | **Member** | Phuoc Nguyen Minh | [@member4_username](#) |Student at FPT University, Cantho campus|
-
+<table width="100%">
+  <thead>
+    <tr style="background-color: #f6f8fa;">
+      <th align="left">Member</th>
+      <th align="left">Fullname</th>
+      <th align="left">Current Affiliation</th>
+      <th align="center">Contact / Profile</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Lead</b></td>
+      <td>Khang Nguyen Quoc</td>
+      <td>🏢 Integrated Master's and PhD Program at Korea University </td>
+      <td align="center">
+        <a href="https://scholar.google.com/citations?user=nXXsN10AAAAJ&hl=en">Scholar</a>
+      </td>
+        <td width="30%" align="center" valign="middle">
+        <img src="KhangNQ.jpg" width="160px" style="border-radius: 50%;" alt="Avatar">
+      </td>
+    </tr>
+    <tr>
+      <td><b>MMember</b></td>
+      <td>Anh Nguyen Quynh</td>
+      <td>🏢 Developer at FPT University, Cantho city, Vietnam</td>
+       <td align="center">
+        <a href="https://scholar.google.com/citations?user=nXXsN10AAAAJ&hl=en">Scholar</a>
+      </td>
+        <td width="30%" align="center" valign="middle">
+        <img src="AnhNQ.png" width="160px" style="border-radius: 50%;" alt="Avatar">
+      </td>
+    </tr>
+    <tr>
+      <td><b>Member</b></td>
+      <td>Gia-Han Truong</td>
+      <td>🏢 Student at FPT University, Cantho city, Vietnam</td>
+       <td align="center">
+        <a href="">Scholar</a>
+      </td>
+        <td width="30%" align="center" valign="middle">
+        <img src="HanTG.jpg" width="160px" style="border-radius: 50%;" alt="Avatar">
+      </td>
+    </tr>
+    <tr>
+      <td><b>Member</b></td>
+      <td>Phuoc Nguyen Minh</td>
+      <td>🏢 Student at FPT University, Cantho city, Vietnam</td>
+       <td align="center">
+        <a href="">Scholar</a>
+      </td>
+        <td width="30%" align="center" valign="middle">
+        <img src="" width="160px" style="border-radius: 50%;" alt="Avatar">
+      </td>
+    </tr>
+  </tbody>
+</table>
 ---
+## 📚 Selected Publications
 
 ## 🛠️ Technical Stack
 <p align="left">
