@@ -61,3 +61,21 @@ jobs:
           git add README.md
           git commit -m "Update publications from Google Scholar" || exit 0
           git push
+# Lấy thông tin chi tiết các bài báo
+          author = scholarly.scholarly.fill(search_query, sections=['publications'])
+          
+          # Lấy 5 bài báo tiêu biểu (Sorted by citations hoặc mới nhất)
+          pubs = author['publications'][:5] 
+          pub_list = "\n"
+          
+          for p in pubs:
+              p_filled = scholarly.scholarly.fill(p) # Lấy chi tiết hơn (năm, tạp chí)
+              title = p_filled['bib'].get('title', 'N/A')
+              year = p_filled['bib'].get('pub_year', 'N/A')
+              venue = p_filled['bib'].get('venue', 'Research Paper')
+              citations = p_filled.get('num_citations', 0)
+              
+              # Định dạng từng dòng: Tên bài - Năm - Tên tạp chí/hội thảo - [Số trích dẫn]
+              pub_list += f"- 📄 **{title}** \n  *{venue}*, {year} | `Citations: {citations}`\n\n"
+
+          pub_list += "\n"
