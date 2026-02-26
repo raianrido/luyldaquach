@@ -112,7 +112,11 @@ I am proud to be a part of **Lab FS_370**, a collaborative research environment 
 </table>
 ---
 ## 📚 Selected Publications
-
+<p align="right">
+  <a href="https://scholar.google.com/citations?user=F5gYMlkAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/View_All_on_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
+</p>
 ## 🛠️ Technical Stack
 <p align="left">
   <a href="https://skillicons.dev">
