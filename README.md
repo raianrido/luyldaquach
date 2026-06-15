@@ -71,7 +71,7 @@ I am proud to be a part of **Lab FS_370**, a collaborative research environment 
       </td>
     </tr>
     <tr>
-      <td><b>MMember</b></td>
+      <td><b>Member</b></td>
       <td>Anh Nguyen Quynh</td>
       <td>🏢 Developer at FPT University, Cantho city, Vietnam</td>
        <td align="center">
