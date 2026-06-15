@@ -49,11 +49,6 @@
 ## 🔬 Lab FS_370 | Core Team
 I am proud to be a part of **Lab FS_370**, a collaborative research environment dedicated to [Brief Lab Mission].
 
-| Role | Name | GitHub | Status |
-| **Member** | Khang Nguyen Quoc | [@lead_username](#) |Integrated Master's and PhD Program at Korea University|
-| **Member** | Anh Nguyen Quynh | [@your_username](#) | |
-| **Member** | Han Truong Gia | [@member3_username](#) |Student at FPT University, Cantho campus|
-| **Member** | Phuoc Nguyen Minh | [@member4_username](#) |Student at FPT University, Cantho campus|
 <table width="100%">
   <thead>
     <tr style="background-color: #f6f8fa;">
@@ -127,32 +122,104 @@ I am proud to be a part of **Lab FS_370**, a collaborative research environment 
 ---
 
 ## 🏆 Achievements & Certifications
-- 🥇 **[Award Name]** – [Organization], [Year]
-- 📜 **[Certification Name]** – [Issuing Body]
-- 💡 **[Patent/Publication]** – "[Title of your paper or work]"
+##🏆 Prestigious National & Corporate Awards
+* Vingroup Innovation Foundation (VINIF) Scholar (2024): Awarded the prestigious PhD Fellowship for excellence in Science and Technology research.
+* Top 100 FPT Education (2020): Honored as one of the top 100 outstanding individuals across the nationwide FPT Education system.
+* Bronze Prize - iKhien Award (2023): Recognized by FPT Corporation for innovative solutions with high practical impact.
+* Outstanding Office Informatics Teacher - Mekong Delta (2021, 2022): Awarded by the Central Committee of Ho Chi Minh Communist Youth Union in cooperation with IIG Vietnam (MOSWC).
+##🎓 Academic & Teaching Excellence
+* Excellent Lecturer of the Year (2019, 2023): Awarded at FPT Education and FPT University, Can Tho Campus.
+* Top 10 Excellent Mentors - FUNiX University (2021): Recognized for exceptional student guidance in online technology education.
+* Excellent Lecturer of the Semester: Awarded for consistently high teaching performance at the Can Tho Campus.
+#💡 Research & Innovation
+* Patent Holder (2021): “Monitoring and Disease Identification System for Poultry.”
+* Application No: 1-2021-01626 (Filed: August 03, 2021).
+* Outstanding Researcher (2019): Honored for exceptional scientific research achievements and publications.
 
 ---
+## 🤝 MENTORING & STUDENT COACHING 
+##📁National & Government-Level Success
+* Consolation Prize – Euréka Student Scientific Research Award (2023): Mentored students in the prestigious research competition organized by the Ho Chi Minh City Communist Youth Union.
+* Top 50 – National Startup Competition for Students (SV.Startup 2020): Supervised the project "AI-based Poultry Disease Recognition Application."
+https://www.aiquant.space/2020/09/aiquant-he-thong-tri-tue-nhan-tao-ho.html?m=1
+* Top 20 – Ho Chi Minh City Artificial Intelligence (AI) Innovation Project (2020): Guided students in developing AI solutions for the Department of Science and Technology, HCMC.
+* Regional Top Scorers – Microsoft Office Specialist World Championship (MOSWC 2020, 2021, 2022): Coached students to achieve the highest regional scores in Vietnam.
+* Excellent School Award – MOSWC Viettel (2020): Led the representative team to win the institutional excellence title in the MOSWC Vietnam finals.
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight" />
-</p>
+##🛰️ FPT Education & Corporate Competitions
+* Championship – FPT Edu Biz Talent (2020): Mentored the winning team in the business and innovation challenge.
+* Championship – FPT Hackathon (2019): Coached the first-place team in the intensive 24-hour coding competition.
+* First Runner-up – Research Festival (ResFes 2022, 2023): Guided student research papers to top positions within the FPT Education system.
+* Game Connect Conference (2023): Mentored student projects showcased at the national conference hosted by the Ministry of Information and Communications, Vietnam.
 
----
 
-## 📁 Featured Projects (Lab & Personal)
-* 🛰️ **[Project Name 1]** - A [Lab FS_370] initiative to [Goal of project]. 
-* 🧠 **[Project Name 2]** - Personal research on [Subject] using [Tech Stack].
-* 🌐 **[Project Name 3]** - Open-source contribution to [Tool Name].
+## 🪧PROJECT
+* 2013 – 2016: “A study of proposing a solution to translate TV’s News into 3D sign language animations for the deaf.”, 2016, B2013-16-31. (Project of the Ministry of Education and Training of Vietnam, by Assoc. Prof. Dr. Nguyen Chi Ngon).
+* 2016 – 2018: “Development of an Online Agricultural Extension Support System for Mekong Delta.", 2018, B2016-TCT-09ĐT. (Project of the Ministry of Education and Training of Vietnam, by Assoc. Prof. Dr. Nguyen Chi Ngon).
+* 2019 – 2022: “Engineering and information technology development and application in aquaculture and fisheries ", project of ODA from Japan.
+* 2019 – 2021: TensorFlow Research Award 2019, Google sponsors FPT University to develop Tensorflow 2.0 materials
+
+
+
+## 📁 Publication (Lab & Personal)
+##2026
+1. **Quach, Luyl-Da**, Tran, T.-K., Nguyen, C.-N., and Thai-Nghe, N., “SHAP-Based Interpretability of Machine Learning Models for Rice Disease Classification from Textual Descriptions,” International Conference on Computational Intelligence in Engineering Science, pp. 16–29, 2026. (Springer proceedings, Scopus-indexed conference proceedings) <a href="https://link.springer.com/chapter/10.1007/978-3-032-21625-0_2">link</a> 
+2. Khang Nguyen Quoc, Phuong D Dao, **Luyl-Da Quach**, “LeafNet: A Large-Scale Dataset and Comprehensive Benchmark for Foundational Vision-Language Understanding of Plant Diseases,” arXiv preprint arXiv:2602.13662, 2026. (Preprint) <a href="https://arxiv.org/abs/2602.13662">link</a> 
+
+##2025
+1. Quach, L.-D., Nguyen, K. Q., Thai-Nghe, N., and Nguyen, C.-N., “XAI-BO: an architecture using Grad-CAM technique to evaluate Bayesian optimization algorithms on deep learning models,” Journal of Information and Telecommunication, vol. 9, no. 3, pp. 335–356, 2025. (Scopus, WoS indexed, Q2) <a href="">link</a> 
+2. Nguyen, K. Q., Le Thi Thu, L., and Quach, L.-D., “A vision-language foundation model for leaf disease identification,” Expert Systems with Applications, 2025. (SCIE, Scopus, Q1) <a href="">link</a> 
+3. Quach, L.-D., Thai-Nghe, N., and Nguyen, C.-N., “Explainable Dual-Branch Hybrid Model for Maize Leaf Disease Classification,” SN Computer Science, vol. 6, no. 6, p. 585, 2025. (Scopus, Q2) <a href="">link</a> 
+4. Nguyen, K. Q., Le Thi Thu, L., and Quach, L.-D., “LeafNet: A large-scale dataset for training image-text models in leaf disease identification,” IEEE Dataport, 2025. (Dataset repository) <a href="">link</a> 
+5. Quach, L.-D., Le, D.-T., Nguyen, C.-N., and Thai-Nghe, N., “Explainable AI for Agriculture: Teacher-Student Learning in Rice Pest Classification,” International Conference on Intelligent Systems and Data Science, pp. 31–45, 2025. (Springer proceedings, Scopus) <a href="">link</a> 
+6. Le, D.-T. et al., “Explanation of the Poultry Disease Recognition Model Using VGG19 with Grad-CAM,” 2025 International Conference on Graphics and Signal Processing (ICGSP), pp. 8–14, 2025. (IEEE conference proceedings) <a href="">link</a> 
+7. Quach, L.-D., Nguyen, C.-N., and Thai-Nghe, N., “An Evaluation of Deep Learning Models’ Explainability on Rice Leaf Disease Datasets using Eigen-CAM,” FAIR 2025, pp. 100–106, 2025. (National conference) <a href="">link</a> 
+
+##2024
+1. Luyl-Da Quach, Khang Nguyen Quoc, Anh Nguyen Quynh, Hoang Tran Ngoc, Nguyen Thai-Nghe, “Tomato health monitoring system: Tomato classification, detection, and counting system based on YOLOv8 model with explainable MobileNet models using Grad-CAM++,” IEEE Access, vol. 12, pp. 9719–9737, 2024. (SCIE, Scopus, Q1) <a href="">link</a> 
+2. Luyl-Da Quach, Quoc Khang Nguyen, Quynh Anh Nguyen, Le Thi Thu Lan, “Rice pest dataset supports the construction of smart farming systems,” Data in Brief, vol. 52, 110046, 2024. (SCIE, Scopus, Q1/Q2) <a href="">link</a> 
+3. Khang Nguyen Quoc, Luyl-Da Quach., “Grain rot dataset caused by Burkholderia Glumae Bacteria,” Data in Brief, vol. 54, 110334, 2024. (SCIE, Scopus, Q1/Q2) <a href="">link</a> 
+4. Hoang Tran Ngoc, Phuc Phan Hong, Anh Nguyen Quoc, Luyl-Da Quach, “Steering angle prediction for autonomous vehicles using deep transfer learning,” Journal of Advances in Information Technology, vol. 15, no. 1, pp. 138–146, 2024. (SCIE, Scopus, Q2) <a href="">link</a> 
+5. Hung Hoang Le, Tin Trung Truong, Hieu Hoang Truong, Kha Minh Tran, Khang Tong Vinh Luong, Lan Thi Thu Le, Luyl-Da Quach, “Initial approach to the identification degree of skin damage and classification of acne by YOLOv8,” Proceedings of ICIIT 2024, pp. 19–25, 2024. (Scopus) <a href="">link</a> 
+6. Khang Quoc Nguyen, Huy Cao Gia Nguyen, Trinh Ngo Diem Le, Viet Binh Quoc Thai, Binh Phong Tran, Lan Thi Thu Le, Luyl-Da Quach, “Tiny-CNN: Structuring convolutional neural networks for accurate classification of rice leaf diseases in resource-constrained environments,” Proceedings of ICIIT 2024, pp. 171–178, 2024. (Scopus) <a href="">link</a> 
+7. Anh Quynh Nguyen, My Tu Tran, Quang Nhat Nguyen, Huy Khai Huynh, Lan Thi Thu Le, Luyl-Da Quach, “Classification of Rice Plant Disease Based on Descriptive Information with DistilBERT’s Architecture,” Proceedings of ICIIT 2024, pp. 155–163, 2024. (Scopus) <a href="">link</a> 
+8. Luyl-Da Quach, Khang Nguyen Quoc, Chi-Ngon Nguyen, Nguyen Thai-Nghe, “Explainable AI for plant disease detection: assessing explainability in classifying maize leaves diseases with focus score and ablation-CAM,” Springer proceedings, 2024. (Scopus, Q4) <a href="">link</a> 
+9. Trong Duc Le, Khang Thanh Tran, Duyen Phuoc Nguyen, Khanh Van Quach, Lan Thi Thu Le, Luyl-Da Quach, "Augmented Reality System in Furniture Sales Management Simulation in Vietnam", Proceedings of ICIIT 2024, pp.460 - 466 ,2024 (Scopus, Q4) <a href="">link</a> 
+
+##2023
+1. Quach, L.-D. et al., “Explainable Deep Learning Models With Gradient-Weighted Class Activation Mapping for Smart Agriculture,” IEEE Access, vol. 11, pp. 83752–83762, 2023. (SCIE, Scopus, Q1)<a href="">link</a> 
+2. Quach, L.-D. et al., “Using the Term Frequency-Inverse Document Frequency for the Problem of Identifying Shrimp Diseases with State Description Text,” IJACSA, vol. 14, no. 5, pp. 725–734, 2023. (Scopus indexed, Q3/Q4)<a href="">link</a> 
+3. Vo, H.-T. et al., “Ensemble of Deep Learning Models for Multi-plant Disease Classification in Smart Farming,” IJACSA, 2023. (Scopus indexed, Q3/Q4)<a href="">link</a> 
+4. Vo, H.-T. et al., “Hyperparameter tuning in transfer learning for driver drowsiness detection,” IJACSA, 2023. (Scopus indexed, Q3/Q4)<a href="">link</a> 
+5. Ngoc, H. T. et al., “Optimizing YOLO Performance for Traffic Light Detection and End-to-End Steering Control for Autonomous Vehicles in Gazebo-ROS2,” IJACSA, 2023. (Scopus indexed, Q3/Q4)<a href="">link</a> 
+6. Ngoc, H. T. et al., “Lane Road Segmentation Based on Improved UNet Architecture for Autonomous Driving,” IJACSA, 2023. (Scopus indexed, Q3/Q4)<a href="">link</a> 
+7. Ngoc, H. T. et al., “Improved Lane-Keeping Controller for Autonomous Vehicles Leveraging CNN-LSTM,” IJACSA, 2023. (Scopus indexed, Q3/Q4)<a href="">link</a> 
+8. Quach, L.-D. et al., “Evaluating the Effectiveness of YOLO Models in Different Sized Object Detection,” Journal of Advances in Information Technology, vol. 14, no. 5, pp. 907–917, 2023. (Scopus indexed)<a href="">link</a> 
+9. Ngoc, H. T. et al., “Improving Autonomous Vehicle Performance through Integration of an Image Deraining Network,” Journal of Advances in Information Technology, 2023. (Scopus indexed)<a href="">link</a> 
+10. Ngoc, H. T. et al., “Efficient Evaluation of SLAM Methods and Integration of Human Detection with YOLO,” IJACSA, 2023. (Scopus indexed, Q3/Q4)<a href="">link</a> 
+
+##2022
+1. Quach, L.-D. et al., “Evaluation of the Efficiency of the Optimization Algorithms for Transfer Learning on the Rice Leaf Disease Dataset,” IJACSA, vol. 13, no. 10, pp. 83–91, 2022. (Scopus indexed, Q3/Q4)<a href="">link</a> 
+2. Ba, D. H. et al., “Building a Logistic Optimization Model for Mekong Delta in Vietnam,” IEEE CSPA 2022, pp. 335–340, 2022. (IEEE conference proceedings)<a href="">link</a> 
+3. Quach, L.-D. et al., “An AI-based Chicken Disease Management System,” Springer proceedings, 2022. (Scopus indexed conference proceedings)<a href="">link</a> 
+4. Hoang, T. N., and Quach, L.-D., “Adaptive Lane Keeping Assist for an Autonomous Vehicle Based on Steering Fuzzy-PID Control in ROS.” (Scopus indexed)<a href="">link</a>
+
+##2021
+1. Quách, L. Đ. et al., “Kiểm thử giải thuật AI trong nhận diện bệnh tôm qua hình ảnh,” Tạp chí Khoa học Đại học Cần Thơ, vol. 57, pp. 192–201, 2021. (National journal)
+2. Uyen, M. V. D. et al., “MobilenetV2 in the classification of avian influenza and CRD in chickens,” Springer proceedings, 2021. (Scopus indexed conference proceedings)
+
+##2020
+1. Duong-Trung, N. et al., “Towards Classification of Shrimp Diseases Using Transferred CNNs,” ASTESJ, vol. 5, no. 4, pp. 724–732, 2020. (Scopus indexed)
+2. Quach, L.-D. et al., “Comparative Study of Vietnamese POS Tagging Tools,” IEEE ICSGRC 2020. (IEEE conference proceedings)
+3. Tran, D. C. et al., “An Email to Readable Vietnamese Text Conversion Algorithm for Use in TTS Application,” IEEE ICSGRC 2020. (IEEE conference proceedings)
 
 ---
 
 ## 📫 Get in Touch
 <p align="center">
-  <a href="mailto:[Your-Email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[Your-LinkedIn-URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:luyldaquach@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[[Your-LinkedIn-URL]](https://www.linkedin.com/in/luyl-da-quach-83293370/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="[Your-Portfolio-URL]"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
 </p>
 
-<p align="center"> ⭐️ From [Your Name] with ❤️ </p>
+<p align="center"> ⭐️ From Luyl-Da Quach with ❤️ </p>
