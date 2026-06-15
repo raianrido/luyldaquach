@@ -163,15 +163,8 @@ https://www.aiquant.space/2020/09/aiquant-he-thong-tri-tue-nhan-tao-ho.html?m=1
 
 ## 📁 Publication (Lab & Personal)
 ##2026
-1. **Quach, Luyl-Da**, Tran, T.-K., Nguyen, C.-N., and Thai-Nghe, N., “SHAP-Based Interpretability of Machine Learning Models for Rice Disease Classification from Textual Descriptions,” International Conference on Computational Intelligence in Engineering Science, pp. 16–29, 2026. (Springer proceedings, Scopus-indexed conference proceedings) 
-<a href="#" onclick="window.open(
-    'https://link.springer.com/chapter/10.1007/978-3-032-21625-0_2',
-    '_blank',
-    'width=1000,height=800'
-); return false;">
-    Link
-</a>
-3. Khang Nguyen Quoc, Phuong D Dao, **Luyl-Da Quach**, “LeafNet: A Large-Scale Dataset and Comprehensive Benchmark for Foundational Vision-Language Understanding of Plant Diseases,” arXiv preprint arXiv:2602.13662, 2026. (Preprint) <a href="https://arxiv.org/abs/2602.13662">link</a> 
+1. **Quach, Luyl-Da**, Tran, T.-K., Nguyen, C.-N., and Thai-Nghe, N., “SHAP-Based Interpretability of Machine Learning Models for Rice Disease Classification from Textual Descriptions,” International Conference on Computational Intelligence in Engineering Science, pp. 16–29, 2026. (Springer proceedings, Scopus-indexed conference proceedings) <a href="https://link.springer.com/chapter/10.1007/978-3-032-21625-0_2">link</a>
+2. Khang Nguyen Quoc, Phuong D Dao, **Luyl-Da Quach**, “LeafNet: A Large-Scale Dataset and Comprehensive Benchmark for Foundational Vision-Language Understanding of Plant Diseases,” arXiv preprint arXiv:2602.13662, 2026. (Preprint) <a href="https://arxiv.org/abs/2602.13662">link</a> 
 
 ##2025
 1. **Luyl-Da Quach**, Nguyen Quoc Khang, Nguyen Thai-Nghe, Chi-Ngon Nguyen, “XAI-BO: an architecture using Grad-CAM technique to evaluate Bayesian optimization algorithms on deep learning models,” Journal of Information and Telecommunication, vol. 9, no. 3, pp. 335–356, 2025. (Scopus, WoS indexed, Q2) <a href="https://doi.org/10.1080/24751839.2024.2447191">link</a> 
