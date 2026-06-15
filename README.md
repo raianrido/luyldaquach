@@ -103,6 +103,28 @@ I am proud to be a part of **Lab FS_370**, a collaborative research environment 
         <img src="" width="160px" style="border-radius: 50%;" alt="Avatar">
       </td>
     </tr>
+    <tr>
+      <td><b>Member</b></td>
+      <td>Duc-Trong Le</td>
+      <td>🏢 Master's at Can Tho University, Cantho city, Vietnam</td>
+       <td align="center">
+        <a href="">Scholar</a>
+      </td>
+        <td width="30%" align="center" valign="middle">
+        <img src="https://scholar.google.com/citations?user=VrawfdAAAAAJ&hl=en" width="160px" style="border-radius: 50%;" alt="Avatar">
+      </td>
+    </tr>
+        <tr>
+      <td><b>Member</b></td>
+      <td>Thanh-Khang Tran</td>
+      <td>🏢 Master's at Can Tho University, Cantho city, Vietnam</td>
+       <td align="center">
+        <a href="">Scholar</a>
+      </td>
+        <td width="30%" align="center" valign="middle">
+        <img src="https://scholar.google.com/citations?user=_3wg-74AAAAJ&hl=en" width="160px" style="border-radius: 50%;" alt="Avatar">
+      </td>
+    </tr>
   </tbody>
 </table>
 ---
