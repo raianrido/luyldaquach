@@ -173,7 +173,7 @@ https://www.aiquant.space/2020/09/aiquant-he-thong-tri-tue-nhan-tao-ho.html?m=1
 4. Nguyen, K. Q., Le Thi Thu, L., and Quach, L.-D., “LeafNet: A large-scale dataset for training image-text models in leaf disease identification,” IEEE Dataport, 2025. (Dataset repository) <a href="">link</a> 
 5. Quach, L.-D., Le, D.-T., Nguyen, C.-N., and Thai-Nghe, N., “Explainable AI for Agriculture: Teacher-Student Learning in Rice Pest Classification,” International Conference on Intelligent Systems and Data Science, pp. 31–45, 2025. (Springer proceedings, Scopus) <a href="">link</a> 
 6. Le, D.-T. et al., “Explanation of the Poultry Disease Recognition Model Using VGG19 with Grad-CAM,” 2025 International Conference on Graphics and Signal Processing (ICGSP), pp. 8–14, 2025. (IEEE conference proceedings) <a href="">link</a> 
-7. Quach, L.-D., Nguyen, C.-N., and Thai-Nghe, N., “An Evaluation of Deep Learning Models’ Explainability on Rice Leaf Disease Datasets using Eigen-CAM,” FAIR 2025, pp. 100–106, 2025. (National conference) <a href="">link</a> 
+7. Luyl-Da Quach, Nguyen Thai-Nghe, Chi-Ngon Nguyen, “An Evaluation of Deep Learning Models’ Explainability on Rice Leaf Disease Datasets using Eigen-CAM,” FAIR 2025, pp. 100–106, 2025. (National conference) <a href="https://doi.org/10.15625/vap.2025.0270">link</a> 
 
 ##2024
 1. Luyl-Da Quach, Khang Nguyen Quoc, Anh Nguyen Quynh, Hoang Tran Ngoc, Nguyen Thai-Nghe, “Tomato health monitoring system: Tomato classification, detection, and counting system based on YOLOv8 model with explainable MobileNet models using Grad-CAM++,” IEEE Access, vol. 12, pp. 9719–9737, 2024. (SCIE, Scopus, Q1) <a href="">link</a> 
