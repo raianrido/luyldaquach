@@ -164,9 +164,11 @@ https://www.aiquant.space/2020/09/aiquant-he-thong-tri-tue-nhan-tao-ho.html?m=1
 ## 📁 Publication (Lab & Personal)
 ##2026
 1. **Quach, Luyl-Da**, Tran, T.-K., Nguyen, C.-N., and Thai-Nghe, N., “SHAP-Based Interpretability of Machine Learning Models for Rice Disease Classification from Textual Descriptions,” International Conference on Computational Intelligence in Engineering Science, pp. 16–29, 2026. (Springer proceedings, Scopus-indexed conference proceedings) 
-<a href="https://link.springer.com/chapter/10.1007/978-3-032-21625-0_2"
-   target="_blank"
-   rel="noopener noreferrer">
+<a href="#" onclick="window.open(
+    'https://link.springer.com/chapter/10.1007/978-3-032-21625-0_2',
+    '_blank',
+    'width=1000,height=800'
+); return false;">
     Link
 </a>
 3. Khang Nguyen Quoc, Phuong D Dao, **Luyl-Da Quach**, “LeafNet: A Large-Scale Dataset and Comprehensive Benchmark for Foundational Vision-Language Understanding of Plant Diseases,” arXiv preprint arXiv:2602.13662, 2026. (Preprint) <a href="https://arxiv.org/abs/2602.13662">link</a> 
