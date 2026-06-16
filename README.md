@@ -148,10 +148,12 @@ I am proud to be a part of **Lab FS_370**, a collaborative research environment 
 * Top 100 FPT Education (2020): Honored as one of the top 100 outstanding individuals across the nationwide FPT Education system.
 * Bronze Prize - iKhien Award (2023): Recognized by FPT Corporation for innovative solutions with high practical impact.
 * Outstanding Office Informatics Teacher - Mekong Delta (2021, 2022): Awarded by the Central Committee of Ho Chi Minh Communist Youth Union in cooperation with IIG Vietnam (MOSWC).
+
 ##🎓 Academic & Teaching Excellence
 * Excellent Lecturer of the Year (2019, 2023): Awarded at FPT Education and FPT University, Can Tho Campus.
 * Top 10 Excellent Mentors - FUNiX University (2021): Recognized for exceptional student guidance in online technology education.
 * Excellent Lecturer of the Semester: Awarded for consistently high teaching performance at the Can Tho Campus.
+
 ##💡 Research & Innovation
 * Patent Holder (2021): “Monitoring and Disease Identification System for Poultry.”
 * Application No: 1-2021-01626 (Filed: August 03, 2021).
