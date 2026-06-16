@@ -41,8 +41,7 @@
 ## 🧑‍💻 About Me
 - 🔬 **Head** at **Lab FS_370**, focusing on Explainable AI, Pattern Recognition, Deep learning, Natural language processing,... in Agriculture.
 - 🚀 Passionate about building scalable applications and innovative research solutions.
-- 🎓 Currently pursuing PhD Student at Can Tho University.
-- 💬 Ask me about **[Topic 1]**, **[Topic 2]**, or anything tech-related!
+- 🎓 Currently a PhD Student at Can Tho University.
 
 ---
 
@@ -111,7 +110,7 @@ I am proud to be a part of **Lab FS_370**, a collaborative research environment 
         <a href="https://scholar.google.com/citations?user=VrawfdAAAAAJ&hl=en">Scholar</a>
       </td>
         <td width="30%" align="center" valign="middle">
-        <img src="" width="160px" style="border-radius: 50%;" alt="Avatar">
+        <img src="DucTrong.jpg" width="160px" style="border-radius: 50%;" alt="Avatar">
       </td>
     </tr>
         <tr>
@@ -176,12 +175,27 @@ https://www.aiquant.space/2020/09/aiquant-he-thong-tri-tue-nhan-tao-ho.html?m=1
 
 
 ## 🪧PROJECT
-* 2013 – 2016: “A study of proposing a solution to translate TV’s News into 3D sign language animations for the deaf.”, 2016, B2013-16-31. (Project of the Ministry of Education and Training of Vietnam, by Assoc. Prof. Dr. Nguyen Chi Ngon).
-* 2016 – 2018: “Development of an Online Agricultural Extension Support System for Mekong Delta.", 2018, B2016-TCT-09ĐT. (Project of the Ministry of Education and Training of Vietnam, by Assoc. Prof. Dr. Nguyen Chi Ngon).
-* 2019 – 2022: “Engineering and information technology development and application in aquaculture and fisheries ", project of ODA from Japan.
-* 2019 – 2021: TensorFlow Research Award 2019, Google sponsors FPT University to develop Tensorflow 2.0 materials
+* 2013 – 2016: “A study of proposing a solution to translate TV’s News into 3D sign language animations for the deaf.” 2016, B2013-16-31. Project of the Ministry of Education and Training of Vietnam, by Assoc. Prof. Dr. Nguyen Chi Ngon.
+* 2016 – 2018: “Development of an Online Agricultural Extension Support System for Mekong Delta." 2018, B2016-TCT-09ĐT. (Project of the Ministry of Education and Training of Vietnam, by Assoc. Prof. Dr. Nguyen Chi Ngon).
+* 2019 – 2022: “Engineering and information technology development and application in aquaculture and fisheries, "a project of ODA from Japan.
+* 2019 – 2021: TensorFlow Research Award 2019, Google sponsors FPT University to develop TensorFlow 2.0 materials
 
-
+## 📰 MEDIA & PRESS FEATURES 
+1. Professional Portraits & Leadership (Chân dung & Truyền cảm hứng)
+* VnExpress: <a href="https://vnexpress.net/giang-vien-it-dam-me-truyen-lua-cho-nguoi-tre-4526409.html">IT Lecturer: Inspiring the Next Generation</a>
+* Chungta.vn: <a href="https://chungta.vn/goc-nhin/chuyen-vui-buon-nghe-mentor-o-funix-1134229.html">The Joys and Challenges of Being a Tech Mentor</a> 
+* FUNiX: <a href="https://funix.edu.vn/chan-dung-mentor/mentor-quach-luyl-da-ke-ve-nhung-vui-buon-cua-mentor-funix/">Mentor Quach Luyl Da: Stories from the Mentoring Journey</a>
+* AD Scientific Index: Scientist Profile: Luyl-Da Quach
+2. Innovation & AI Projects (Dự án Sáng tạo & Trí tuệ nhân tạo)
+* Dan Tri / Thanh Hoa TV: <a href="https://dantri.com.vn/giao-duc/can-tet-sv-xay-dung-phan-mem-phat-hien-dich-benh-gia-cam-mien-phi-20200115144721808.htm">Developing Free AI Software for Poultry Disease Detection during Tet</a>
+* Giao Duc Thoi Dai: <a href="https://giaoducthoidai.vn/ung-dung-tri-tue-nhan-tao-chan-doan-benh-cho-gia-cam-post591307.html">AI Application in Poultry Health Diagnosis</a>
+* International Conference (ICIIT 2023): <a href="https://dantri.com.vn/giao-duc/hoi-thao-quoc-te-iciit-2023-thu-hut-nhieu-de-tai-nghien-cuu-tiem-nang-20230302131017675.htm">Potential Research Projects Featured at ICIIT 2023</a>
+* Innovation Hub: <a href="https://dost.hochiminhcity.gov.vn/hoat-dong-so-khcn/50-du-an-sang-gia-lot-qua-vong-so-tuyen-cuoc-thi-hai-2020/">Top 50 HCMC Artificial Intelligence Projects 2020</a>
+3. Mentoring Success Stories (Thành tích hướng dẫn sinh viên)
+* Vietnamnet / Tien Phong: <a href="https://vietnamnet.vn/10x-viet-co-7-cong-bo-quoc-te-duoc-cap-bang-sang-che-2363608.html">From Patents to Scholarships: Success of Mentored Gen Z Researchers</a>
+* Dan Tri: <a href="https://dantri.com.vn/giao-duc/sinh-vien-nghien-cuu-phuong-phap-dem-va-phan-loai-nong-san-bang-ai-20230829094348849.htm">Students Innovate AI-based Produce Classification Systems</a>
+* Tai Nang Viet: <a href="https://tainangviet.vn/nguyen-quynh-anh-co-nu-sinh-tai-nang-cua-dai-hoc-fpt-can-tho-nhan-giai-thuong-nu-sinh-khoa-hoc-cong-nghe-viet-nam-nam-2023-dar5817/">Award-winning Female Student in Science & Technology 2023</a>
+* Chungta.vn: <a href="https://chungta.vn/i-khien/thay-tro-dh-fpt-nhan-loi-moi-thi-game-giao-duc-quoc-te-1136907.html">FPT University Mentors and Students Invited to International Game Design Competition</a>
 
 ## 📁 Publication (Lab & Personal)
 ##2026
