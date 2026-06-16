@@ -152,7 +152,7 @@ I am proud to be a part of **Lab FS_370**, a collaborative research environment 
 * Excellent Lecturer of the Year (2019, 2023): Awarded at FPT Education and FPT University, Can Tho Campus.
 * Top 10 Excellent Mentors - FUNiX University (2021): Recognized for exceptional student guidance in online technology education.
 * Excellent Lecturer of the Semester: Awarded for consistently high teaching performance at the Can Tho Campus.
-#💡 Research & Innovation
+##💡 Research & Innovation
 * Patent Holder (2021): “Monitoring and Disease Identification System for Poultry.”
 * Application No: 1-2021-01626 (Filed: August 03, 2021).
 * Outstanding Researcher (2019): Honored for exceptional scientific research achievements and publications.
@@ -256,15 +256,31 @@ https://www.aiquant.space/2020/09/aiquant-he-thong-tri-tue-nhan-tao-ho.html?m=1
 4. Hoang, Tran Ngoc, and **Luyl-Da Quach**. "Adaptive lane keeping assist for an autonomous vehicle based on steering fuzzy-PID control in ROS." International Journal of Advanced Computer Science and Applications 13, no. 10 (2022). (Scopus indexed)<a href="https://dx.doi.org/10.14569/IJACSA.2022.0131086">link</a>
 
 ##2021
-1. Đa, Quách Luyl, Phan Trọng Nghĩa, Trần Thanh Hùng, and Nguyễn Chí Ngôn. "Kiểm thử giải thuật AI trong nhận diện bệnh tôm qua hình ảnh." Tạp chí Khoa học Đại học Cần Thơ 57 (2021): 192-201.. (National journal) <a href="">link</a>
+1. Đa, Quách Luyl, Phan Trọng Nghĩa, Trần Thanh Hùng, and Nguyễn Chí Ngôn. "Kiểm thử giải thuật AI trong nhận diện bệnh tôm qua hình ảnh." Tạp chí Khoa học Đại học Cần Thơ 57 (2021): 192-201.. (National journal) <a href="https://doi.org/10.22144/ctu.jvn.2021.078">link</a>
 2. Uyen, My Vo Dang, Nha Truong Thanh, Anh Nguyen My, Hang Lam Thi Khanh, Lan Le Thi Thu, and Luyl-Da Quach. "Mobilenetv2 in the classification of avian influenza and crd in chickens." In Proceedings of the Computational Methods in Systems and Software, pp. 668-678. Cham: Springer International Publishing, 2021. <a href="https://link.springer.com/chapter/10.1007/978-3-030-90318-3_53">link</a>
-3. <a href="">link</a>
-4. <a href="">link</a>
+
 
 ##2020
-1. Duong-Trung, N. et al., “Towards Classification of Shrimp Diseases Using Transferred CNNs,” ASTESJ, vol. 5, no. 4, pp. 724–732, 2020. (Scopus indexed)
-2. Quach, L.-D. et al., “Comparative Study of Vietnamese POS Tagging Tools,” IEEE ICSGRC 2020. (IEEE conference proceedings)
-3. Tran, D. C. et al., “An Email to Readable Vietnamese Text Conversion Algorithm for Use in TTS Application,” IEEE ICSGRC 2020. (IEEE conference proceedings)
+1. Quach, Luyl-Da, Nghi Pham Quoc, Nhien Huynh Thi, Duc Chung Tran, and Mohd Fadzil Hassan. "Using surf to improve resnet-50 model for poultry disease recognition algorithm." In 2020 International Conference on Computational Intelligence (ICCI), pp. 317-321. IEEE, 2020.<a href="https://doi.org/10.1109/ICCI51257.2020.9247698">link</a>
+2. Tran, Duc Chung, Hong Son Ha, Duc Long Nguyen, Rosdiazli Ibrahim, and Luyl Da Quach. "An approach for sars-cov-2 infected cases report analysis." In 2020 International Conference on Computational Intelligence (ICCI), pp. 126-129. IEEE, 2020. <a href="https://ieeexplore.ieee.org/abstract/document/9247702">link</a>
+3. Quach, Luyl-Da, Nghi Pham-Quoc, Duc Chung Tran, and Mohd Fadzil Hassan. "Identification of chicken diseases using VGGNet and ResNet models." In International Conference on Industrial Networks and Intelligent Systems, pp. 259-269. Cham: Springer International Publishing, 2020. <a href="https://link.springer.com/chapter/10.1007/978-3-030-63083-6_20">link</a>
+4. Tran, Duc Chung, Hong Son Ha, Luyl-Da Quach, and Mohd Fadzil Hassan. "An Email to Readable Vietnamese Text Conversion Algorithm for Use in TTS Application." In 2020 11th IEEE Control and System Graduate Research Colloquium (ICSGRC), pp. 49-52. IEEE, 2020. <a href="https://ieeexplore.ieee.org/abstract/document/9232496">link</a>
+5. Quach, Luyl-Da, Dat Do Thanh, Duc Chung Tran, and Mohd Fadzil Hassan. "Comparative Study of Vietnamese Part-of-Speech Tagging Tools." In 2020 11th IEEE Control and System Graduate Research Colloquium (ICSGRC), pp. 197-202. IEEE, 2020. <a href="https://ieeexplore.ieee.org/abstract/document/9232564">link</a>
+6. Duong-Trung, Nghia, Luyl-Da Quach, and Chi-Ngon Nguyen. "Towards classification of shrimp diseases using transferred convolutional neural networks." Advances in Science, Technology and Engineering Systems Journal 5, no. 4 (2020): 724-732. <a href="https://www.astesj.com/v05/i04/p86/">link</a>
+
+##2019
+1. Quach, Luyl-Da, Nghia Duong-Trung, Anh-Van Vu, and Chi-Ngon Nguyen. "Recommending the workflow of vietnamese sign language translation via a comparison of several classification algorithms." In International Conference of the Pacific Association for Computational Linguistics, pp. 134-141. Singapore: Springer Singapore, 2019.<a href="https://link.springer.com/chapter/10.1007/978-981-15-6168-9_12">link</a>
+2. Duong-Trung, Nghia, Luyl-Da Quach, Minh-Hoang Nguyen, and Chi-Ngon Nguyen. "A combination of transfer learning and deep learning for medicinal plant classification." In Proceedings of the 2019 4th International Conference on Intelligent Information Technology, pp. 83-90. 2019. <a href="https://doi.org/10.1145/3321454.3321464">link</a>
+3. Duong-Trung, Nghia, Luyl-Da Quach, Minh-Hoang Nguyen, and Chi-Ngon Nguyen. "Classification of grain discoloration via transfer learning and convolutional neural networks." In Proceedings of the 3rd International Conference on Machine Learning and Soft Computing, pp. 27-32. 2019. <a href="https://doi.org/10.1145/3310986.3310997">link</a>
+4. Quach, Luyl-Da, Long Quach Hoang, N. D. Trung, and Chi-Ngon Nguyen. "Towards machine learning approaches to identify shrimp diseases based on description." K yu Hi ngh KHCN Quc gia ln th XII v Nghiê n cu c bn và ng dng Công ngh thông tin (FAIR); Hu, ngày (2020): 494-501. <a href="https://doi.org/10.15625/vap.2019.00063">link</a>
+5. Duong-Trung, Nghia, Luyl-Da Quach, and Chi-Ngon Nguyen. "Learning deep transferability for several agricultural classification problems." International Journal of Advanced Computer Science and Applications 10, no. 1 (2019). <a href="https://dx.doi.org/10.14569/IJACSA.2019.0100107">link</a>
+
+##2018
+1. Quach, Luyl-Da, and Chi-Ngon Nguyen. "Conversion of the Vietnammese grammar into sign language structure using the example-based machine translation algorithm." In 2018 International Conference on Advanced Technologies for Communications (ATC), pp. 27-31. IEEE, 2018. <a href="https://ieeexplore.ieee.org/abstract/document/8587584">link</a>
+2. Da, Quach Luyl, Nguyen Hua Duy Khang, and Nguyen Chi Ngon. "Converting the vietnamese television news into 3d sign language animations for the deaf." In International Conference on Industrial Networks and Intelligent Systems, pp. 155-163. Cham: Springer International Publishing, 2018. <a href="https://link.springer.com/chapter/10.1007/978-3-030-05873-9_13">link</a>
+
+##2017
+1. Ngôn, Nguyễn Chí, and Quách Luyl Đa. "Application of HamNoSys and avatar 3D JASigning to construction of Vietnamese sign language animations." Tạp chí Khoa học và Công nghệ-Đại học Đà Nẵng (2017): 61-65. <a href="https://jst-ud.vn/jst-ud/article/view/3275">link</a>
 
 ---
 
