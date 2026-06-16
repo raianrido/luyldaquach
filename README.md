@@ -75,7 +75,7 @@ I am proud to be a part of **Lab FS_370**, a collaborative research environment 
       <td>Anh Nguyen Quynh</td>
       <td>🏢 Developer at FPT University, Cantho city, Vietnam</td>
        <td align="center">
-        <a href="https://scholar.google.com/citations?user=nXXsN10AAAAJ&hl=en">Scholar</a>
+        <a href="https://scholar.google.com/citations?user=pdfXmnAAAAAJ&hl=en">Scholar</a>
       </td>
         <td width="30%" align="center" valign="middle">
         <img src="AnhNQ.png" width="160px" style="border-radius: 50%;" alt="Avatar">
