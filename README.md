@@ -1,9 +1,8 @@
-<img width="980" height="980" alt="image" src="https://github.com/user-attachments/assets/2527fa81-c276-4a8c-a337-7c30e4e81ad4" /><table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="35%" align="left" valign="top">
       <h1 style="margin-top: 0;">LUYL-DA QUACH</h1>
       <p style="font-size: 1.2em; color: #777; margin: 5px 0;">Lecturer and researcher at FPT University</p>
-      <p style="color: #999; font-size: 0.85em;">Last update: February 26, 2026</p>
+      <p style="color: #999; font-size: 0.85em;">Last update: August, 2026</p>
       <br>
     </td>
     <td width="30%" align="center" valign="middle">
@@ -13,7 +12,7 @@
       <table width="100%">
         <tr>
           <td align="left" style="border-bottom: 1px solid #eee; padding: 5px 0;"><b>Residence</b></td>
-          <td align="right" style="border-bottom: 1px solid #eee; padding: 5px 0;">🏠 Cantho cit, Vietnam</td>
+          <td align="right" style="border-bottom: 1px solid #eee; padding: 5px 0;">🏠 Cantho city, Vietnam</td>
         </tr>
         <tr>
           <td align="left" style="border-bottom: 1px solid #eee; padding: 5px 0;"><b>Scholar</b></td>
