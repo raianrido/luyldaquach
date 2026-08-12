@@ -1,4 +1,4 @@
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<img width="980" height="980" alt="image" src="https://github.com/user-attachments/assets/2527fa81-c276-4a8c-a337-7c30e4e81ad4" /><table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="35%" align="left" valign="top">
       <h1 style="margin-top: 0;">LUYL-DA QUACH</h1>
@@ -181,6 +181,22 @@ https://www.aiquant.space/2020/09/aiquant-he-thong-tri-tue-nhan-tao-ho.html?m=1
 * 2016 – 2018: “Development of an Online Agricultural Extension Support System for Mekong Delta." 2018, B2016-TCT-09ĐT. (Project of the Ministry of Education and Training of Vietnam, by Assoc. Prof. Dr. Nguyen Chi Ngon).
 * 2019 – 2022: “Engineering and information technology development and application in aquaculture and fisheries, "a project of ODA from Japan.
 * 2019 – 2021: TensorFlow Research Award 2019, Google sponsors FPT University to develop TensorFlow 2.0 materials
+
+## 📚 Training Dataset
+1. LeafNet is a **large-scale multimodal plant disease dataset** containing 186,000 leaf images, covering 97 disease classes, with expert-annotated image–text metadata. From this dataset, LeafBench provides 13,950 VQA (Visual Question Answering), Disease Image-Text Dataset,VLM Plant Disease <a href="https://doi.org/10.48550/arXiv.2602.13662)">link</a>
+   Data used in the studies:
+   - A vision-language foundation model for leaf disease identification, Expert Systems with Applications, 2025. (SCIE, Scopus, Q1) <a href="https://doi.org/10.1016/j.eswa.2025.130084">link</a> 
+2. The **Rice Pest Dataset** is an image dataset for rice pest recognition and classification, containing 3,156 images across 10 rice pest classes. The images are standardized to 312 × 312 pixels, collected from IP102, ImageNet, Microsoft COCO, and online sources, then cleaned, deduplicated, and validated by agricultural experts. <a href="https://doi.org/10.1016/j.dib.2024.110046">link</a>
+It is designed for research in rice pest detection, image classification, computer vision, deep learning, agricultural AI, and smart farming. 
+   Data used in the studies:
+   - Explainable AI for Agriculture: Teacher-Student Learning in Rice Pest Classification <a href="https://link.springer.com/chapter/10.1007/978-981-95-3355-8_3">link</a> 
+3.  The **Bacterial Grain Rot Dataset** is a rice disease image dataset focused on bacterial grain rot caused by Burkholderia glumae. It contains 1,528 high-resolution images (1280×1280) with bounding-box annotations for healthy and diseased rice grains, totaling 12,467 labeled grain instances. The dataset supports object detection, rice disease classification, disease severity assessment, computer vision, deep learning, and smart farming. <a href="https://doi.org/10.1016/j.dib.2024.110334">link</a>
+   Data used in the studies:
+   - Tiny-CNN: Structuring convolutional neural networks for accurate classification of rice leaf diseases in resource-constrained environments, Proceedings of ICIIT 2024, pp. 171–178, 2024. (Scopus) <a href="https://doi.org/10.1145/3654522.3654570">link</a>
+4. TomaMMU (**Tomato Leaf Disease Multimodal Understanding**) is a large-scale multimodal dataset and benchmark designed to evaluate Vision-Language Models (VLMs) in tomato leaf disease diagnosis and plant pathology. Unlike conventional image classification datasets, TomaMMU focuses on multimodal understanding, disease reasoning, and real-world agricultural diagnosis. It includes TomaBench, a hierarchical benchmarking framework covering agricultural tasks from basic visual perception to expert-level disease diagnosis and reasoning. <a href="https://doi.org/10.48550/arXiv.2608.08727">link</a>
+5. LeafMD is an integrated multimodal plant disease dataset and benchmark designed for AI-powered plant disease detection, plant pathology, and agricultural foundation models. It includes LeafNet 2.0, with 255,855 image–text pairs covering 37 crop species, 197 crop–disease classes, and 9 geographic regions across tropical, subtropical, and temperate agricultural systems.
+**LeafNet 2.0** integrates biologically grounded symptom descriptions and annotations of early- and late-stage disease symptoms, supporting realistic field-based disease progression and symptom-aware analysis. LeafBench 2.0 provides a VQA benchmark with nine fine-grained plant pathology tasks, including pathogen classification, lesion characterization, symptom interpretation, and disease severity assessment. <a href="https://doi.org/10.64898/2026.07.01.735881">link</a>
+
 
 ## 📰 MEDIA & PRESS FEATURES 
 1. Professional Portraits & Leadership (Chân dung & Truyền cảm hứng)
