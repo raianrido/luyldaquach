@@ -148,6 +148,7 @@ I am proud to be a part of **Lab FS_370**, a collaborative research environment 
 * Top 100 FPT Education (2020): Honored as one of the top 100 outstanding individuals across the nationwide FPT Education system.
 * Bronze Prize - iKhien Award (2023): Recognized by FPT Corporation for innovative solutions with high practical impact.
 * Outstanding Office Informatics Teacher - Mekong Delta (2021, 2022): Awarded by the Central Committee of Ho Chi Minh Communist Youth Union in cooperation with IIG Vietnam (MOSWC).
+* Top 1000 Scholar (2026) – Ranked #667 globally and #3 in Vietnam in Smart Agriculture and AI (Impact Score: 90.09, Top 4.6%), <a href="https://scholarlyindex.com/scholars/SI-1093cf0397df78ea4a5913f434213cbd"> Scholarly Index </a>.
 
 ##🎓 Academic & Teaching Excellence
 * Excellent Lecturer of the Year (2019, 2023): Awarded at FPT Education and FPT University, Can Tho Campus.
